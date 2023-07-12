@@ -4,7 +4,7 @@ I did not include too simple projects from my first year. Also, my design projec
 [Increasing The Success Rate Of Object Detection by Converting RGB Images To Thermal Images With Using Image-to-Image Translation Methods Powered by GANS](https://b21827943.github.io)
 
 
-This repository includes project from these classes:
+This repository includes projects from these classes:
 - Data Structures
 - Algorithms
 - Software Engineering
