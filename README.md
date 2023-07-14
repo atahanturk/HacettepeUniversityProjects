@@ -7,7 +7,6 @@ I did not include too simple projects from my first year. Also, my design projec
 This repository includes projects from these classes:
 - Data Structures
 - Algorithms
-- Software Engineering
 - Fundamentals of Image Processing
 - Fundamentals of Machine Learning
 - Information Security
